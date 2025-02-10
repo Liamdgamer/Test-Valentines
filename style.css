@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100 vh;
+    height: 100vh;
     margin: 0;
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
@@ -14,22 +14,22 @@ body {
   }
   
   h1 {
-    font-size: 2.5 em;
+    font-size: 2.5em;
     color: #d32f2f;
   }
   
   .buttons {
-    margin-top: 20 px;
+    margin-top: 20px;
   }
   
   .yes-button {
-    font-size: 1.5 em;
-    padding: 10 px 20 px;
-    margin-right: 10 px;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin-right: 10px;
     background-color: #4caf50;
     color: white;
     border: none;
-    border-radius: 5 px;
+    border-radius: 5px;
     cursor: pointer;
   }
   
