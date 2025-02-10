@@ -1,16 +1,14 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
     margin: 0;
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
   }
-  
   .container {
     text-align: center;
+    display: block;
+    width: 100%;
   }
   
   h1 {
@@ -27,7 +25,7 @@ body {
     padding: 10px 20px;
     margin-right: 10px;
     background-color: #4caf50;
-    color: green;
+    color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -37,15 +35,8 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     background-color: #f44336;
-    color: red;
+    color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
-  
-  .gif_container img {
-    max-width: 100px;
-    height: auto;
-    border-radius: 10px;
-    margin-top: 20px;
   }
