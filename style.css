@@ -31,8 +31,9 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    width: 100px
+    width: 100%
     max-height: auto;
+    max-width: 500px
   }
   
   .no-button {
