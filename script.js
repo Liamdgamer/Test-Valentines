@@ -11,10 +11,6 @@ const messages = [
     "I'm kidding, say yes please!"
     "Yes"
     "Yes"
-"Yes"
-"Yes"
-"Yes"
-"Yes"
 ];
 
 let messageIndex = 0;
