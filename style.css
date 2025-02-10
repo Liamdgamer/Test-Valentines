@@ -20,6 +20,7 @@ body {
   
   .buttons {
     margin-top: 20px;
+    align-items: center;
   }
   
   .yes-button {
@@ -27,7 +28,7 @@ body {
     padding: 10px 20px;
     margin-right: 10px;
     background-color: #4caf50;
-    color: white;
+    color: green;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -37,7 +38,7 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     background-color: #f44336;
-    color: white;
+    color: red;
     border: none;
     border-radius: 5px;
     cursor: pointer;
