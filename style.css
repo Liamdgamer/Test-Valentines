@@ -34,18 +34,18 @@ body {
   }
   
   .no-button {
-    font-size: 1.5 em;
-    padding: 10 px 20 px;
+    font-size: 1.5em;
+    padding: 10px 20px;
     background-color: #f44336;
     color: white;
     border: none;
-    border-radius: 5 px;
+    border-radius: 5px;
     cursor: pointer;
   }
   
   .gif_container img {
-    max-width: 100;
+    max-width: 100%;
     height: auto;
-    border-radius: 10 px;
-    margin-top: 20 px;
+    border-radius: 10px;
+    margin-top: 20px;
   }
